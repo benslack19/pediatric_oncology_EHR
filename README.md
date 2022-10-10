@@ -2,7 +2,7 @@
 
 Due to the sensitive nature of patient data, I cannot include my code in public repository. It is maintained in an internal UCSF repository. I'm sharing this abstract to provide some details on the project.
 
-**Identifying social risks from notes in the Electronic Health Record and evaluating associations with emergency department& visits and hospitalizations**
+**Identifying social risks from notes in the Electronic Health Record and evaluating associations with emergency department visits**
 
 Benjamin Lacar, Lena E. Winestone, Dmytro S. Lituiev, Sarah F. Ackley, M. Maria Glymour, Jonathan T. Kolstad, Matthew S. Pantell, Laura M. Gottlieb, Emilia De Marchis
 
